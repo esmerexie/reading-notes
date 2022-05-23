@@ -1,6 +1,6 @@
 # Welcome to my Reading Journal.
 
-Hello my name is [Rexie Esmeralda](https://github.com/esmerexie) and these are my notes on my journey to becoming a software developer!
+Hello my name is [Rexie Esmeralda](https://github.com/esmerexie) and these are my notes on my journey to becoming a software developer! <img src="[https://img.icons8.com/cotton/344/code.png](https://img.icons8.com/ios/344/code.png)" width="30" height="30">
 
 ### Growth Mindset
 
