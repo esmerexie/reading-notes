@@ -1,4 +1,4 @@
-# Choosing the right text editor 
+# Choosing the right text editor <img src="https://cdn-icons.flaticon.com/png/512/4547/premium/4547224.png?token=exp=1653364806~hmac=691e22e878924cb6030bfa596c9333df" width="30" height="30">
 
 When choosing a text editor it is important to note that the **best text editor** might not always be the right one for you.
 
