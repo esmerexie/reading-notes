@@ -22,7 +22,7 @@ When writing in Markdown, it is important to know about the spelling and the spa
  ```
  # here is my header
  
- see how I added a line of space after my line of code?
+ see how I added a line of space after my line of text?
  
  I did it again!
  
