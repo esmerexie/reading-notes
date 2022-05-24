@@ -37,4 +37,4 @@ When writing in Markdown, it is important to know about the spelling and the spa
  
  ```
  
- ## For more info on mastering Markdown Basic Sytanx, going to [this](https://www.markdownguide.org/basic-syntax/#images-1) website will give you the complete guide!
+## For more info on mastering Markdown Basic Sytanx, going to [this](https://www.markdownguide.org/basic-syntax/#images-1) website will give you the complete guide!
