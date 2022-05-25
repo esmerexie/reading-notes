@@ -39,7 +39,7 @@ To add a file
 
 or All files
 
-> git add *
+> git add .
 
 When committing a file us this command plus a message detailing the commit
 
