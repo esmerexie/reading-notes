@@ -1,10 +1,18 @@
-# Welcome to my Reading Journal.
+# Welcome to my Journal.
 
-Hello my name is [Rexie Esmeralda](https://github.com/esmerexie) and these are my notes on my journey to becoming a software developer! <img src="https://img.icons8.com/office/344/code.png" width="30" height="30">
+Hello my name is [Rexie Esmeralda](https://github.com/esmerexie) and these are all my notes with codefellows on my journey to becoming a software developer! <img src="https://img.icons8.com/office/344/code.png" width="30" height="30">
 
-### Growth Mindset
+## Table Of Contents
 
-*What does [growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) mean to me?*
+- [Class 1 Reading Notes](https://esmerexie.github.io/reading-notes/class1)
+
+- [Class 2 Reading Notes](https://esmerexie.github.io/reading-notes/class2)
+
+- [Class 3 Reading Notes](https://esmerexie.github.io/reading-notes/class3)
+
+- [Class 4 Reading Notes](https://esmerexie.github.io/reading-notes/class4)
+
+> *What does [growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) mean to me?*
 
 ```
 - able to develop and grow overtime
@@ -13,6 +21,4 @@ Hello my name is [Rexie Esmeralda](https://github.com/esmerexie) and these are m
 - takes criticism well and grows from it
 - doesn't limit their potential due to the success of others 
 - takes time to learn even on their off time
-
 ```
-
