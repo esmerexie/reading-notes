@@ -13,6 +13,8 @@ Hello my name is [Rexie Esmeralda](https://github.com/esmerexie) and these are a
 
 - [Class 4 Reading Notes](https://esmerexie.github.io/reading-notes/class4)
 
+- [Class 5 Reading Notes](https://esmerexie.github.io/reading-notes/class5)
+
 ## What does [growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) mean to me?
 
 > - able to develop and grow overtime
