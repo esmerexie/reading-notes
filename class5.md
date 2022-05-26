@@ -29,9 +29,10 @@ You can see by the example that not only did we change the color to red but now 
 ```
 <link rel="stylesheet" heref="style.css" />
 ```
+
 1. Will now apply any design to the text you have added to the `style.css` file.
 
-2. The second way to add CSS to your HTML file is to do so `Interanally`. For example to start, opening up your HTML file and adding your CSS code to the file instead having to writ the code in a serperate file or externally. 
+2. The second way to add CSS to your HTML file is to do so `Interanally`. For example to start, opening up your HTML file and adding your CSS code to the file instead having to writ the code in a serperate file or externally.  
 
 ```
 <!DOCTYPE html>
