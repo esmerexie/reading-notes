@@ -1,4 +1,5 @@
 # CSS <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-css-computer-science-flaticons-lineal-color-flat-icons-2.png" width="40" height="40">
+
 [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS) or Cascading Style Sheets helps allow you to design your website. When building a website I like to think of it as HTML being the skeleton and CSS being the asthetic to everything on top of the skeleton. But what do I mean by that you may ask? Well for starters you can change a color of a text by doing  
 
 ```
