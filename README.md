@@ -1,8 +1,9 @@
-# Welcome to my Journal.
+# Welcome to my Journal
 
 Hello my name is [Rexie Esmeralda](https://github.com/esmerexie) and these are all my notes with codefellows on my journey to becoming a software developer! <img src="https://img.icons8.com/office/344/code.png" width="30" height="30">
 
 ## Table Of Contents
+
 - [Understandings](https://esmerexie.github.io/reading-notes/Understandings)
 
 - [Class 1 Reading Notes](https://esmerexie.github.io/reading-notes/class1)
