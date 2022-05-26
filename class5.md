@@ -35,10 +35,7 @@ You can see by the example that not only did we change the color to red but now 
 2. The second way to add CSS to your HTML file is to do so `Interanally`. For example to start, opening up your HTML file and adding your CSS code to the file instead having to writ the code in a serperate file or externally.  
 
 ```
-<!DOCTYPE html>
-<html>
-<head>
-<style>
+
 h1 {  
     color: red;
  }
@@ -47,9 +44,6 @@ h1 {
 <body>
 
 <h1>Hello</h1>
-
-</body>
-</html>
 
 ```  
 
