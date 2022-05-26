@@ -24,18 +24,17 @@ You can see by the example that not only did we change the color to red but now 
 
 ## Two ways of adding CSS to HTML
 
-1. The first and in my opinion the best way of adding CSS is by doing so `Externally`. You can start by adding a 
+1) The first and in my opinion the best way of adding CSS is by doing so `Externally`. You can start by adding a 
 `style.css` file. By adding one of the example above to your new `style.css` file we can then add a link to our HTML connecting to our `style.css`. To do so adding this line 
 ```
 <link rel="stylesheet" heref="style.css" />
 ```
 
-1. Will now apply any design to the text you have added to the `style.css` file.
+Will now apply any design to the text you have added to the `style.css` file.
 
-2. The second way to add CSS to your HTML file is to do so `Interanally`. For example to start, opening up your HTML file and adding your CSS code to the file instead having to writ the code in a serperate file or externally.  
+2) The second way to add CSS to your HTML file is to do so `Interanally`. For example to start, opening up your HTML file and adding your CSS code to the file instead having to writ the code in a serperate file or externally.  
 
 ```
-
 h1 {  
     color: red;
  }
