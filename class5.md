@@ -32,6 +32,7 @@ You can see by the example that not only did we change the color to red but now 
 1. Will now apply any design to the text you have added to the `style.css` file.
 
 2. The second way to add CSS to your HTML file is to do so `Interanally`. For example to start, opening up your HTML file and adding your CSS code to the file instead having to writ the code in a serperate file or externally. 
+
 ```
 <!DOCTYPE html>
 <html>
@@ -48,6 +49,7 @@ h1 {
 
 </body>
 </html>
+
 ```  
 
 This is just the scratch of the surface of what CSS is capable of but for more in-depth details you should vist [HERE](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS) or if you are looking for a CSS cheat sheet [HERE](https://htmlcheatsheet.com/css/) would be a good starting point.
