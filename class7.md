@@ -35,17 +35,3 @@ mathFunction(1, 2);
 This is just a bare bone example of a function. We have the command **function** and the name given for the function witch is **mathFunction**. We have now given the **mathFunction** variables **a** and **b**. The last line returns and gives us the result of **a + b**.
 
 `return` statment means the function will stop executing once the line reaches `return`. For more on functions go [HERE](https://www.w3schools.com/js/js_functions.asp).
-
-## Operators
-
-operators are simple. They are the actions used to perform arithmetic on numbers. Exampls are  
-
-```js
-x + y (addition)
-x - y (subtraction)
-x * y (muliplication)
-x / y (division)
-x % y (modulus / division remainder)
-```
-
-For more on operators visit this [site](https://www.w3schools.com/js/js_operators.asp).
