@@ -2,7 +2,7 @@
 
 [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS) or Cascading Style Sheets helps allow you to design your website. When building a website I like to think of it as HTML being the skeleton and CSS being the asthetic to everything on top of the skeleton. But what do I mean by that you may ask? Well for starters you can change a color of a text by doing  
 
-```
+```css
 h1 {  
     color: red;
  }
@@ -13,7 +13,7 @@ from the example given aboove, we started with a selecter in this case being `h1
 
 Another example of design we could do is being able to change the font size. To do this we can write
 
-```
+```css
 h1 {
     color: red;
     font-size: 5em;
@@ -27,7 +27,7 @@ You can see by the example that not only did we change the color to red but now 
 
 1) The first and in my opinion the best way of adding CSS is by doing so `Externally`. You can start by adding a `style.css` file. By adding one of the example above to your new `style.css` file we can then add a link to our HTML connecting to our `style.css`. To do so adding this line  
 
-```
+```css
 <link rel="stylesheet" heref="style.css" />
 
 ```  
@@ -36,7 +36,7 @@ Will now apply any design to the text you have added to the `style.css` file.
 
 2) The second way to add CSS to your HTML file is to do so `Interanally`. For example to start, opening up your HTML file and adding your CSS code to the file instead having to writ the code in a serperate file or externally.  
 
-```
+```css
 h1 {  
     color: red;
  }
