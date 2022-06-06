@@ -26,7 +26,7 @@ Hello my name is [Rexie Esmeralda](https://github.com/esmerexie) and these are a
 
 ### Class 2 Reading Notes
 
-- [Class 1 Reading assignment]()
+- [Class 1 Reading assignment](https://esmerexie.github.io/reading-notes/class01)
 
 - [Class 2 Reading assignment]()
 
@@ -64,5 +64,3 @@ Hello my name is [Rexie Esmeralda](https://github.com/esmerexie) and these are a
 > - takes criticism well and grows from it
 > - doesn't limit their potential due to the success of others  
 > - takes time to learn even on their off time
-
-test
