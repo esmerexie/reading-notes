@@ -4,6 +4,8 @@ Hello my name is [Rexie Esmeralda](https://github.com/esmerexie) and these are a
 
 ## Table Of Contents
 
+### Class 102 Reading notes
+
 - [Understandings](https://esmerexie.github.io/reading-notes/Understandings)
 
 - [Class 1 Reading Notes](https://esmerexie.github.io/reading-notes/class1)
@@ -21,6 +23,38 @@ Hello my name is [Rexie Esmeralda](https://github.com/esmerexie) and these are a
 - [Class 7 Reading Notes](https://esmerexie.github.io/reading-notes/class7)
 
 - [Class 8 Reading Notes](https://esmerexie.github.io/reading-notes/class8)
+
+### Class 2 Reading Notes
+
+- [Class 1 Reading assignment]()
+
+- [Class 2 Reading assignment]()
+
+- [Class 3 Reading assignment]()
+
+- [Class 4 Reading assignment]()
+
+- [Class 5 Reading assignment]()
+
+- [Class 6 Reading assignment]()
+
+- [Class 7 Reading assignment]()
+
+- [Class 8 Reading assignment]()
+
+- [Class 9 Reading assignment]()
+
+- [Class 10 Reading assignment]()
+
+- [Class 11 Reading assignment]()
+
+- [Class 12 Reading assignment]()
+
+- [Class 13 Reading assignment]()
+
+- [Class 14 Reading assignment]()
+
+- [Class 15 Reading assignment]()
 
 ## What does [growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) mean to me?
 
