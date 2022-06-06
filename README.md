@@ -24,7 +24,7 @@ Hello my name is [Rexie Esmeralda](https://github.com/esmerexie) and these are a
 
 - [Class 8 Reading Notes](https://esmerexie.github.io/reading-notes/class8)
 
-### Class 2 Reading Notes
+### Class 201 Reading Notes
 
 - [Class 1 Reading assignment](https://esmerexie.github.io/reading-notes/class01)
 
