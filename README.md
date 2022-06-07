@@ -28,7 +28,7 @@ Hello my name is [Rexie Esmeralda](https://github.com/esmerexie) and these are a
 
 - [Class 1 Reading assignment](https://esmerexie.github.io/reading-notes/class01)
 
-- [Class 2 Reading assignment]()
+- [Class 2 Reading assignment](https://esmerexie.github.io/reading-notes/class02)
 
 - [Class 3 Reading assignment]()
 
