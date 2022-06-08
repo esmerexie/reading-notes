@@ -155,3 +155,7 @@ for (var i = 0; i < 10; i++) {
 }
 
 ```
+
+## Things I want to know more about
+
+I want to know more about properly using loops and when to use switches. I also want to learn how to write cleaner code and their proper uses.
