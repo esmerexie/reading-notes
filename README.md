@@ -30,7 +30,7 @@ Hello my name is [Rexie Esmeralda](https://github.com/esmerexie) and these are a
 
 - [Class 2 Reading assignment](https://esmerexie.github.io/reading-notes/class02)
 
-- [Class 3 Reading assignment]()
+- [Class 3 Reading assignment](https://esmerexie.github.io/reading-notes/class03)
 
 - [Class 4 Reading assignment]()
 
