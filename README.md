@@ -32,7 +32,7 @@ Hello my name is [Rexie Esmeralda](https://github.com/esmerexie) and these are a
 
 - [Class 3 Reading assignment](https://esmerexie.github.io/reading-notes/class03)
 
-- [Class 4 Reading assignment]()
+- [Class 4 Reading assignment](https://esmerexie.github.io/reading-notes/class04)
 
 - [Class 5 Reading assignment]()
 
