@@ -1,32 +1,24 @@
 # Reading
 
-## HTML Forms
+## Learn CSS - Flexbox
 
-> Why are forms so important in web development?
-
-I think the reason why forms are so important in webt development because it provides feedback and data to the Dev from the user.
-
-> When designing a form, what are some key things to keep in mind when it comes to user experience?
+> Flexbox is designed for one-dimensional content. Explain what this means.
 
 -
 
-> List 5 form elements and explain their importance.
-
-## Learn JS
-
-> How would you describe events to a non-technical friend?
+> Explain the difference between the main axis and cross axis.
 
 -
 
-> When using the addEventListener() method, what 2 arguments will you need to provide?
+> How can using certain properties of flexbox negatively impact accessibility?
+
+## CSS Layout - Flexbox
+
+> What are some advantages of using flexbox over float?
 
 -
 
-> Describe the event object. Why is the target within the event object useful?
-
--
-
-> What is the difference between event bubbling and event capturing?
+> How does this topic connect with your long term goals?
 
 -
 
