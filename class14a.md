@@ -37,4 +37,8 @@ Some benefits are giving your website a WOW facotor. It can help build traffic t
 
 > How this topic fit in with your long-term goals?
 
-This topic fits in my long-term goals by giving myself more knowledge in the CSS fields. As to some developers only learn a single language, I can diversify myself by knowing how to style webpages. 
+This topic fits in my long-term goals by giving myself more knowledge in the CSS fields. As to some developers only learn a single language, I can diversify myself by knowing how to style webpages.
+
+## Things I want to know more about
+
+I want to know more about styling and when it is too much styling on a webpage.
