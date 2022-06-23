@@ -52,7 +52,9 @@ Hello my name is [Rexie Esmeralda](https://github.com/esmerexie) and these are a
 
 - [Class 13 Reading assignment](https://esmerexie.github.io/reading-notes/class13)
 
-- [Class 14 Reading assignment]()
+- [Class 14a Reading assignment](https://esmerexie.github.io/reading-notes/class14a)
+
+- [Class 14b Reading assignment]()
 
 - [Class 15 Reading assignment]()
 
