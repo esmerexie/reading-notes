@@ -27,3 +27,7 @@ How are props used in React?
 What is the flow of props?
 
 - props are passed in a uni-directional flow.
+
+## Things I want to know more about
+
+- I want to understand more about how components are used in real life products. And how to use props properly.
