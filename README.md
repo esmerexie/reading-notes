@@ -4,7 +4,7 @@ Hello my name is [Rexie Esmeralda](https://github.com/esmerexie) and these are a
 
 ## Table Of Contents
 
-### Class 102 Reading notes
+### Class 102 Intro to Software Devlopment Reading notes
 
 - [Understandings](https://esmerexie.github.io/reading-notes/Understandings)
 
@@ -24,7 +24,7 @@ Hello my name is [Rexie Esmeralda](https://github.com/esmerexie) and these are a
 
 - [Class 8 Reading Notes](https://esmerexie.github.io/reading-notes/class8)
 
-### Class 201 Reading Notes
+### Class 201 Foundations of Software Development Reading Notes
 
 - [Class 1 Reading assignment](https://esmerexie.github.io/reading-notes/class01)
 
@@ -56,7 +56,11 @@ Hello my name is [Rexie Esmeralda](https://github.com/esmerexie) and these are a
 
 - [Class 14b Reading assignment](https://esmerexie.github.io/reading-notes/class14b)
 
-- [Class 15 Reading assignment]()
+## Class 301 Intermediate Software Development Reading notes
+
+- [Class 1 Reading Notes]()
+
+## Class 401 Advance Software Development Reading notes
 
 ## What does [growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) mean to me?
 
