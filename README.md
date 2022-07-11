@@ -58,7 +58,7 @@ Hello my name is [Rexie Esmeralda](https://github.com/esmerexie) and these are a
 
 ## Class 301 Intermediate Software Development Reading notes
 
-- [Class 1 Reading Notes]()
+- [Class 1 Reading Notes](https://esmerexie.github.io/reading-notes/class001)
 
 ## Class 401 Advance Software Development Reading notes
 
