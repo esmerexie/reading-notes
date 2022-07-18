@@ -66,6 +66,10 @@ Hello my name is [Rexie Esmeralda](https://github.com/esmerexie) and these are a
 
 - [Class 4 Reading Notes](class301/class004.md)
 
+- [Class 5 Reading Notes](class301/class005.md)
+
+- [Class 6 Reading Notes](class301/class006.md)
+
 ## Class 401 Advance Software Development Reading notes
 
 ## What does [growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) mean to me?
