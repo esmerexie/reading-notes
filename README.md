@@ -76,6 +76,8 @@ Hello my name is [Rexie Esmeralda](https://github.com/esmerexie) and these are a
 
 ## Class 401 Advance Software Development Reading notes
 
+- [Prep: The Growth Mindset(class401/prep.md)]
+
 ## What does [growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) mean to me?
 
 > - able to develop and grow overtime

@@ -1,0 +1,3 @@
+# Measuring Emotional Intelligence
+
+After taking the [Emotional Intelligence](https://codefellows.github.io/common_curriculum/career_coaching/201/emotional-intelligence-assessment.pdf) assesment, I saw that on one of the areas where the points were tallied that I needed to imporve on. That area is Self-awareness. It is not that I am unaware of my situation, it is that I lack the ability to understand myself in situations where it matters. The steps that I am planning to take in the future is to access myself and think before I give an answer. To read the environment before making any assumptions. And to be able to interpret other's feelings and mine before approaching another.
