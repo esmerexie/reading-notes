@@ -82,6 +82,8 @@ Hello my name is [Rexie Esmeralda](https://github.com/esmerexie) and these are a
 
 - [Prep: Practice in the Terminal](class401/terminal.md)
 
+- [Class 1](class401/class0001.md)
+
 ## What does [growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) mean to me?
 
 > - able to develop and grow overtime
