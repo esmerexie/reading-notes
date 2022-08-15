@@ -80,6 +80,8 @@ Hello my name is [Rexie Esmeralda](https://github.com/esmerexie) and these are a
 
 - [Prep: TIntroduction to SQL](class401/sql.md)
 
+- [Prep: Practice in the Terminal](class401/terminal.md)
+
 ## What does [growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) mean to me?
 
 > - able to develop and grow overtime
