@@ -86,6 +86,8 @@ Hello my name is [Rexie Esmeralda](https://github.com/esmerexie) and these are a
 
 - [Prep: Data Stuctures and Algorithms](class401/dataStucturesandAlgorithms.md)
 
+- [Prep: Engineering Readings](class401/engineeringReadings.md)
+
 ## What does [growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) mean to me?
 
 > - able to develop and grow overtime
