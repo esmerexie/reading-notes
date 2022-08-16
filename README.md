@@ -88,6 +88,8 @@ Hello my name is [Rexie Esmeralda](https://github.com/esmerexie) and these are a
 
 - [Prep: Engineering Readings](class401/engineeringReadings.md)
 
+- [Class 2](class401/class0002.md)
+
 ## What does [growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) mean to me?
 
 > - able to develop and grow overtime
